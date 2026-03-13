@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- Homepage images -->
+  <url>
+    <loc>https://www.jeffigoe.com/</loc>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-talking-to-doctors-ai.png</image:loc>
+      <image:title>Jeff Igoe — Fractional CMO presenting marketing strategy to functional medicine doctors</image:title>
+      <image:caption>Jeff Igoe, America's leading Fractional CMO for functional medicine clinics, with medical professionals. 21+ years, $275M+ revenue generated.</image:caption>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://www.jeffigoe.com/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-igoe-logo-white.webp</image:loc>
+      <image:title>Jeff Igoe — Official Logo</image:title>
+      <image:caption>Official logo of Jeff Igoe, Fractional CMO for functional medicine clinics.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-speaking-doctors.png</image:loc>
+      <image:title>Jeff Igoe speaking to functional medicine doctors</image:title>
+      <image:caption>Jeff Igoe presenting healthcare marketing strategies to a group of medical professionals and clinic owners.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/co-chc-logo.png</image:loc>
+      <image:title>Conscious Health Connections — Official Logo</image:title>
+      <image:caption>Conscious Health Connections, founded by Jeff Igoe in 2014. America's premier concierge marketing agency for functional medicine clinics.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/co-score-logo-new.png</image:loc>
+      <image:title>The Igoe Score — Official Logo</image:title>
+      <image:caption>The Igoe Score — proprietary 0-10 vendor rating system for functional medicine, created by Jeff Igoe.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/co-stack-logo.png</image:loc>
+      <image:title>The Igoe Stack — Official Logo</image:title>
+      <image:caption>The Igoe Stack — proprietary multi-revenue diversification framework for medical practices, developed by Jeff Igoe.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/chc-doctor-patient.jpg</image:loc>
+      <image:title>Doctor consulting with a new patient at a functional medicine clinic</image:title>
+      <image:caption>A physician meeting with a new patient — the outcome of Conscious Health Connections' new patient acquisition campaigns.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/chc-doctor-hero.jpg</image:loc>
+      <image:title>Confident doctor ready to serve new patients — Conscious Health Connections</image:title>
+      <image:caption>A confident healthcare professional representing the results of Jeff Igoe's new patient acquisition system.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About page images -->
+  <url>
+    <loc>https://www.jeffigoe.com/about.html</loc>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-talking-to-doctors-ai.png</image:loc>
+      <image:title>Jeff Igoe — About: Fractional CMO and Healthcare Marketing Expert</image:title>
+      <image:caption>Jeff Igoe, Fractional CMO with 21+ years in functional medicine marketing. $275M+ revenue generated for 300+ clinic owners.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Saara AI page images -->
+  <url>
+    <loc>https://www.jeffigoe.com/saara.html</loc>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-igoe-board-room.png</image:loc>
+      <image:title>Jeff Igoe — Co-Founder of Saara AI, in boardroom</image:title>
+      <image:caption>Jeff Igoe, Co-Founder of Saara AI — the AI operating system for modern healthcare clinics.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Press page images -->
+  <url>
+    <loc>https://www.jeffigoe.com/press.html</loc>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/jeff-speaking-doctors.png</image:loc>
+      <image:title>Jeff Igoe speaking at a healthcare marketing event</image:title>
+      <image:caption>Jeff Igoe presenting at a functional medicine and healthcare marketing conference.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog images -->
+  <url>
+    <loc>https://www.jeffigoe.com/blog.html</loc>
+    <image:image>
+      <image:loc>https://www.jeffigoe.com/images/blog-hrv-wave.png</image:loc>
+      <image:title>HRV Wave Review — Igoe Score</image:title>
+      <image:caption>Jeff Igoe's Igoe Score review of HRV Wave (Offer Wellness) — a functional medicine tool for clinic owners.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

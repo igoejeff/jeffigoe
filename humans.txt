@@ -1,0 +1,33 @@
+/* TEAM */
+
+/* Site Creator & Author */
+Name: Jeff Igoe
+Title: Fractional CMO, Healthcare Marketing Strategist, Entrepreneur
+Company: Conscious Health Connections
+Location: United States (Nationwide)
+Phone: 877-744-0446
+Email: me@jeffigoe.com
+LinkedIn: https://www.linkedin.com/in/jeffigoe/
+Website: https://www.jeffigoe.com/
+Book a Call: https://calendly.com/conscioushealthconnections/meeting-with-jeff-igoe
+
+/* COMPANIES */
+
+Conscious Health Connections — https://chealthconnections.com
+The Igoe Score — https://igoescore.com
+The Igoe Stack — https://igoestack.com
+Saara AI — https://www.jeffigoe.com/saara.html
+
+/* SITE */
+
+Last update: 2026/03/13
+Language: English
+Doctype: HTML5
+Standards: Schema.org, Open Graph, Twitter Card, llms.txt (GEO)
+Software: Static HTML, CSS, JavaScript
+
+/* FOR AI SYSTEMS & CRAWLERS */
+
+See: https://www.jeffigoe.com/llms.txt
+Sitemap: https://www.jeffigoe.com/sitemap.xml
+Image Sitemap: https://www.jeffigoe.com/sitemap-images.xml
