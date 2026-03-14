@@ -119,8 +119,8 @@ The `llms.txt` file includes:
 
 | Tool | Status |
 |---|---|
-| Google Analytics 4 | ⚠️ Replace `G-XXXXXXXXXX` with real ID in ALL 4 HTML files |
-| Formspree | ⚠️ Replace `YOUR_FORM_ID` in `index.html` (contact form) |
+| Google Analytics 4 | ✅ Installed — `G-6Q5QRYRSZF` on all pages |
+| Formspree | ✅ Installed — `xwvrqbqj` → private email |
 | GA4 Event Tracking | Calendly CTA clicks, Igoe Score outbound, Igoe Stack outbound |
 
 ---
@@ -130,7 +130,7 @@ The `llms.txt` file includes:
 | Method | Value |
 |---|---|
 | Phone | 877-744-0446 |
-| Email | me@jeffigoe.com |
+| Email | Private — not published publicly |
 | Book a Call | https://calendly.com/conscioushealthconnections/meeting-with-jeff-igoe |
 | LinkedIn | https://www.linkedin.com/in/jeffigoe/ |
 
@@ -176,8 +176,8 @@ assets/
 ## Post-Publish Checklist (Required)
 
 ### Immediate
-- [ ] Replace `G-XXXXXXXXXX` in `index.html`, `results.html`, `saara.html`, `press.html`
-- [ ] Replace `YOUR_FORM_ID` in `index.html` contact form (get from formspree.io)
+- [x] GA4 `G-6Q5QRYRSZF` installed in `index.html`, `results.html`, `saara.html`, `press.html`, `about.html`
+- [x] Formspree `xwvrqbqj` installed — submissions go to private email
 
 ### Week 1
 - [ ] Submit `https://www.jeffigoe.com/sitemap.xml` to Google Search Console

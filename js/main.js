@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } catch {
         ffSubmit.innerHTML = orig;
         ffSubmit.disabled  = false;
-        alert('Something went wrong. Please email me directly at me@jeffigoe.com');
+        alert('Something went wrong. Please call us at 877-744-0446 or book a call at calendly.com/conscioushealthconnections/meeting-with-jeff-igoe');
       }
     });
   }
@@ -344,28 +344,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  /* ── STICKY CTA BAR ──────────────────────────────────────────── */
-  const stickyCta   = document.getElementById('stickyCta');
-  const stickyClose = document.getElementById('stickyClose');
-
-  if (stickyCta) {
-    const showSticky = () => {
-      const scrolled = window.scrollY / (document.body.scrollHeight - window.innerHeight);
-      if (scrolled > 0.40) stickyCta.classList.add('visible');
-    };
-    window.addEventListener('scroll', showSticky, { passive: true });
-
-    stickyClose?.addEventListener('click', () => {
-      stickyCta.classList.remove('visible');
-      stickyCta.classList.add('dismissed');
-      sessionStorage.setItem('stickyClosed', '1');
-    });
-
-    // Don't show if dismissed this session
-    if (sessionStorage.getItem('stickyClosed')) {
-      stickyCta.classList.add('dismissed');
-    }
-  }
+  /* ── STICKY CTA BAR — removed ── */
 
 
   /* ── LEAD MAGNET FORM ────────────────────────────────────────── */

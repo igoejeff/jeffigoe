@@ -144,15 +144,24 @@ Disallow: /*.json$
 Allow: /sitemap.xml
 Allow: /sitemap-images.xml
 Allow: /llms.txt
+Allow: /.well-known/llms.txt
+Allow: /ai.txt
 Allow: /humans.txt
+Allow: /.well-known/security.txt
 Allow: /about.html
 Allow: /results.html
 Allow: /saara.html
 Allow: /press.html
+Disallow: /blog.html
 
 # ─── SITEMAPS ────────────────────────────────────────────────────
 Sitemap: https://www.jeffigoe.com/sitemap.xml
 Sitemap: https://www.jeffigoe.com/sitemap-images.xml
+
+# ─── AI CONTENT DISCOVERY FILES ──────────────────────────────────
+# LLM & AI crawler guidance: https://www.jeffigoe.com/llms.txt
+# AI permissions & entity summary: https://www.jeffigoe.com/ai.txt
+# Well-known LLM path: https://www.jeffigoe.com/.well-known/llms.txt
 
 # ─── CRAWL DELAY (optional, helps server performance) ────────────
 # Crawl-delay: 1
