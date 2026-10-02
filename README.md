@@ -129,7 +129,6 @@ The `llms.txt` file includes:
 
 | Method | Value |
 |---|---|
-| Phone | 877-744-0446 |
 | Email | Private — not published publicly |
 | Book a Call | https://calendly.com/conscioushealthconnections/meeting-with-jeff-igoe |
 | LinkedIn | https://www.linkedin.com/in/jeffigoe/ |
