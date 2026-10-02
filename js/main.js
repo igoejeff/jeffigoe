@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } catch {
         ffSubmit.innerHTML = orig;
         ffSubmit.disabled  = false;
-        alert('Something went wrong. Please call us at 877-744-0446 or book a call at calendly.com/conscioushealthconnections/meeting-with-jeff-igoe');
+        alert('Something went wrong. Please book a call at calendly.com/conscioushealthconnections/meeting-with-jeff-igoe');
       }
     });
   }
